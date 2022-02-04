@@ -1,0 +1,148 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+/* .content {
+    width: 80%;
+    margin: 50px auto;
+}
+
+.contact-form {
+    background: #ffffff;
+    display: flex;
+}
+
+.contact-left {
+    flex-basis: 60%;
+    padding: 40px 60px;
+} */
+
+
+/* .mb-3 {
+    flex-basis: 60%;
+    padding: 40px 60px;
+}
+ */
+
+
+/* 
+.contact-right {
+    flex-basis: 40%;
+    padding: 40px;
+    background: #00aeae;
+    color: #000000;
+}
+
+.input-row {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 25px;
+}
+
+.input-row .input-group {
+    flex-basis: 45%;
+}
+
+input {
+    width: 100%;
+    border: none;
+    border-bottom: 1px solid #000000;
+    outline: none;
+    padding-bottom: 5px;
+} */
+
+
+/* .content-input {
+    width: 100%;
+    border: none;
+    border-bottom: 0.5px solid #000000;
+    outline: none;
+    padding-bottom: 5px;
+    padding: 10px;
+    box-sizing: border-box;
+} */
+
+
+/* 
+textarea {
+    width: 100%;
+    border: 1px solid #000000;
+    outline: none;
+    padding: 10px;
+    box-sizing: border-box;
+} */
+
+
+/* 
+label {
+    margin-bottom: 6px;
+    display: block;
+    color: #000000;
+    text-align: left;
+} */
+
+
+/* 
+.content-label {
+    margin-bottom: 6px;
+    display: block;
+    color: #000000;
+    text-align: left;
+} */
+
+
+/* .content-button button {
+    background: black;
+    width: 100px;
+    border: none;
+    outline: none;
+    color: white;
+    height: 35px;
+} */
+
+
+/* 
+.contact-left h2 {
+    font-weight: 600;
+    margin-bottom: 30px;
+    text-align: left;
+}
+
+.contact-right h2 {
+    text-align: left;
+    font-weight: 600;
+    margin-bottom: 30px;
+}
+
+tr td {
+    padding: 5px 10px;
+    text-align: left;
+}
+
+tr td:first-child {
+    padding-right: 20px;
+} */
+
+.mb-3 {
+    text-align: left;
+    margin-top: 20px;
+}
+
+.input-field {
+    position: relative;
+    border-style: solid;
+    border-bottom: 2px solid black;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    outline: none;
+    box-sizing: border-box;
+}
+
+.message-field {
+    position: relative;
+    border-style: solid;
+    border: 2px solid black;
+}

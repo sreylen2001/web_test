@@ -1,0 +1,14 @@
+.test h1 {
+    color: brown;
+}
+
+.restaurant-d {
+    flex-basis: 40%;
+    padding: 40px;
+}
+
+.restaurant-d h2 {
+    text-align: left;
+    font-weight: 600;
+    margin-bottom: 30px;
+}

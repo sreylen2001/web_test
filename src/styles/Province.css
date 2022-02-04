@@ -1,0 +1,15 @@
+/* p {
+    font-size: 20px;
+    margin: 20px;
+    visibility: hidden;
+    opacity: 0;
+}
+
+.kampot-content:hover {
+    cursor: pointer;
+}
+
+.card:hover p {
+    opacity: 1;
+    visibility: visible;
+} */

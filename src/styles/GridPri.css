@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+img {
+    max-width: 100%;
+}
+
+p {
+    text-align: center;
+    line-height: 1.8;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+}
+
+.destinations {
+    padding: 50px;
+    text-align: center;
+}
+
+.destinations h4 {
+    font-size: 30px;
+    padding: 10px;
+    text-align: center;
+}
+
+.destinations .grid div {
+    background-color: #f1f1f1;
+    margin-bottom: 30px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.destinations .grid div img {
+    border-radius: 10px;
+}
+
+@media (min-width: 768px) {
+    .destinations .grid {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 20px;
+    }
+
+    .destinations .grid div img {
+        height: 150px;
+        width: 300px;
+    }
+}

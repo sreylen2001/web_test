@@ -1,0 +1,39 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+
+}
+.back-image{
+    margin: 20px;
+    width: 90%;
+    height: 450px;
+    place-items: center center;
+    border-radius: 7px;
+}
+#main-container {
+    margin: 20px;
+    place-items: center center;
+    background-color: #595959;
+    width: 500px;
+    height: 200px;
+    text-align: center;
+    border-radius: 7px;
+    border-bottom-style: solid;
+    border-bottom-color: #f00e0e;
+
+
+}
+
+#sign-in-form {
+    max-width: 330px;
+
+}
+
+.bootstrap-logo {
+    width: 72px;
+    height: 72px;
+}
+
+.form-control:focus {
+    z-index: 5;
+}

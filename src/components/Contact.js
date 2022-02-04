@@ -1,10 +1,17 @@
 import React, {Component} from 'react';
+import Head from "./Head";
+// import { Kak_Contact } from "./Kak_Contact";
+import {Hotel} from "./Hotel";
 
 export default class Contact extends Component {
     render() {
         return (
             <div>
-                <h1>Contact</h1>
+                <Head />
+                {/*<Kak_Contact />*/}
+                <Hotel />
+
+                
             </div>
         );
     }
